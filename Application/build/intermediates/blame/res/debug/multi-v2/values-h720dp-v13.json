@@ -4,7 +4,7 @@
             "outputFile": "/home/eva/AndroidStudioProjects/android-RecyclerView-master/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
             "map": [
                 {
-                    "source": "/home/eva/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/10fbf14cc7f613e8558a9c46191ebe6d/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "source": "/home/eva/.gradle/caches/transforms-2/files-2.1/25e9acbd0d4f1bb946cd20262e6c2cc3/appcompat-v7-27.0.2/res/values-h720dp-v13/values-h720dp-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
